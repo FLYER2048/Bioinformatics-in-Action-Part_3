@@ -1,0 +1,4 @@
+Number of contigs: 271
+Assembly size: 5260241
+Largest contig: 308271
+N50: 170468
